@@ -19,6 +19,17 @@ more.
 <img src="start.gif" ></h2>
 
 
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
 
 ## My Statistics
 
@@ -30,8 +41,6 @@ more.
   </a>
 </p>
 <br>
-
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ramixix&custom_title=Ramixix%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://google.com)
 
 
 
