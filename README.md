@@ -20,6 +20,20 @@ more.
 
 
 
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://google.com">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ramixix&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramixix&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ramixix&custom_title=Ramixix%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://google.com)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
