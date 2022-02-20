@@ -18,7 +18,8 @@
     and as I said before I am always open to learning
     more.
   </p>
-  <img src="start.gif" align="right"></h2>
+  
+  <img align="right" alt="GIF" src="./start.gif" />
 </dev>
 
 <div align="center">
