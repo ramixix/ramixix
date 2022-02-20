@@ -38,6 +38,13 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
 
 
+<p align="left">
+  <a href="https://google.com">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ramixix&show_icons=true&theme=gotham&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramixix&theme=gotham&hide_border=true" />
+  </a>
+</p>
+<br/>
 
 <img align="right" alt="GIF" width="140px" src="./start.gif" />
 <div align="center">
