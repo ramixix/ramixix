@@ -46,7 +46,7 @@
 </p>
 <br/>
 
-<img align="right" alt="GIF" width="140px" src="./start.gif" />
+<img align="right" alt="GIF" width="210px" src="./start.gif" />
 <div align="center">
   <a href="https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
