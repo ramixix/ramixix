@@ -41,7 +41,7 @@
 <br/>
 
 <img align="right" alt="GIF" width="210px" src="./start.gif" />
-<script src="https://tryhackme.com/badge/150579"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/xramx.png" alt="TryHackMe">
 
 ### How To Reach Me :
 
