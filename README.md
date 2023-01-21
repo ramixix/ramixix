@@ -1,22 +1,18 @@
 <h1 align="center">
   <b>Hola 👋</b>
 </h1>
-<dev>
-  <p align="left">
-    :raised_hand_with_fingers_splayed: Heya! I'm Ramin , Welcome to my github page.
+
+:raised_hand_with_fingers_splayed: Heya! I'm Ramin , Welcome to my github page.
+
+- :desktop_computer: I am a recent graduate in Computer Engineering.
     
-    :desktop_computer: I am a recent graduate in Computer Engineering.
-    
-    :relaxed: I am an independent and self-motivated programmer with a passion for Software Development and Cyber Security. 
+- :relaxed: I am an independent and self-motivated programmer with a passion for Software Development and Cyber Security. 
   
-    :books: I am currently analyzing, reverse engineering malware and learning about the inner workings of malicious software.
+- :books: I am currently analyzing, reverse engineering malware and learning about the inner workings of malicious software.
     
-    :toolbox: I am a seeker of knowledge and eager to be challenged to further grow and develop my skills. 
-    
-    :shield: :crossed_swords: I am an active member of free online platforms that use hands-on exercises and labs to learn about Cyber Security such as "<a href="https://tryhackme.com/p/xramx"> "tryhackme.com" </a>", "CrackMe", "Rootme", "Letsdefend", "Cyber-Defenders", "PicoCTF" etc. 
-    
-  </p>
-</dev>
+- :toolbox: I am a seeker of knowledge and eager to be challenged to further grow and develop my skills. 
+
+- :shield: :crossed_swords: I am an active member of free online platforms that use hands-on exercises and labs to learn about Cyber Security such as "<a href="https://tryhackme.com/p/xramx"> "tryhackme.com" </a>", "CrackMe", "Rootme", "Letsdefend", "Cyber-Defenders", "PicoCTF" etc. 
 <br>
 <hr>
 <br>
