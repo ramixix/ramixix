@@ -1,22 +1,21 @@
 <h1 align="center">
-  <b>Hi there 👋, I am Ramin</b>
+  <b>Hola 👋</b>
 </h1>
-
 <dev>
   <p align="left">
-    Heya! I'm Ramin , a stdudent who is
-    studying Computer Engineering, currently 4th grade.
-    Possess strong communication skills and keen to
-    pursue a career in Cyber-Security and Network
-    Programming fields. I have been dealing with cyber
-    security in the last 3 years and I have tried to imporve
-    myself as much as possible in this field, always thirsty to learn more.
-    I am an active member of free online platforms for
-    learning cyber security, that use hands-on exercises
-    and labs for instance, <a href="https://tryhackme.com/p/xramx"> "tryhackme.com" </a>and
-    "hackthebox.eu". There is a lot to learn
-    and as I said before I am always open to learning
-    more.
+    :raised_hand_with_fingers_splayed: Heya! I'm Ramin , Welcome to my github page.
+    
+    
+    :desktop_computer: I am a recent graduate in Computer Engineering.
+    
+    :relaxed: I am an independent and self-motivated programmer with a passion for Software Development and Cyber Security. 
+  
+    :books: I am currently analyzing, reverse engineering malware and learning about the inner workings of malicious software.
+    
+    :toolbox: I am a seeker of knowledge and eager to be challenged to further grow and develop my skills. 
+    
+    :shield: :crossed_swords: I am an active member of free online platforms that use hands-on exercises and labs to learn about Cyber Security such as "<a href="https://tryhackme.com/p/xramx"> "tryhackme.com" </a>", "CrackMe", "Rootme", "Letsdefend", "Cyber-Defenders", "PicoCTF" etc. 
+    
   </p>
 </dev>
 <br>
@@ -47,17 +46,7 @@
 <br/>
 
 <img align="right" alt="GIF" width="210px" src="./start.gif" />
-<div align="center">
-  <a href="https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-<!-- 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div> -->
+<script src="https://tryhackme.com/badge/150579"></script>
 
 ### How To Reach Me :
 
@@ -67,5 +56,5 @@
 <br><br>
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/whoami/)
 <br><br>
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Email-ramin.halimi@protonmail.com-green?style=for-the-badge" />]()
+[<img align="top" alt="Email" src="https://img.shields.io/badge/Email-ramin.halimi@protonmail.com-green?style=for-the-badge" />]()
 <br><br>
