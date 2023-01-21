@@ -5,7 +5,6 @@
   <p align="left">
     :raised_hand_with_fingers_splayed: Heya! I'm Ramin , Welcome to my github page.
     
-    
     :desktop_computer: I am a recent graduate in Computer Engineering.
     
     :relaxed: I am an independent and self-motivated programmer with a passion for Software Development and Cyber Security. 
