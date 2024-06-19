@@ -2,7 +2,7 @@
   <b>Hola 👋</b>
 </h1>
 
-:raised_hand_with_fingers_splayed: Heya! I'm Ramin , Welcome to my github page.
+:raised_hand_with_fingers_splayed: Heya! I'm Ramixix , Welcome to my github page.
 
 - :desktop_computer: I am a recent graduate in Computer Engineering.
     
