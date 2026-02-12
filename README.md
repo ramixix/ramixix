@@ -1,23 +1,41 @@
 <h1 align="center">
-  <b>Hola 👋</b>
+  <b>Welcom, I don't know how to put this, but... I'm kind of big deal.</b>
 </h1>
 
-:raised_hand_with_fingers_splayed: Heya! I'm Ramixix , Welcome to my github page.
+:raised_hand_with_fingers_splayed: Heya! I'm Ramixix , I usually do my best and God does the rest. Little about me:
 
-- :desktop_computer: I am a recent graduate in Computer Engineering.
-    
-- :relaxed: I am an independent and self-motivated programmer with a passion for Software Development and Cyber Security. 
-  
-- :books: I am currently analyzing, reverse engineering malware and learning about the inner workings of malicious software.
-    
-- :toolbox: I am a seeker of knowledge and eager to be challenged to further grow and develop my skills. 
-
-- :shield: :crossed_swords: I am an active member of free online platforms that use hands-on exercises and labs to learn about Cyber Security such as "<a href="https://tryhackme.com/p/xramx"> "tryhackme.com" </a>", "CrackMe", "Rootme", "Letsdefend", "Cyber-Defenders", "PicoCTF" etc. 
+- :desktop_computer: I am a Computer Engineering graduate currently pursuing a Master's degree focused on the intersection of Artificial Intelligence and Cybersecurity.
+- :toolbox: Experienced in cybersecurity, DevOps, and software development with strong interest in these fields.
+- :relaxed: I like to be unseen, to delve deep, and love to learn the inner working of things and understand how complex systems truly operate, from low-level mechanics to production-scale environments. 
+- :books: I build secure, scalable systems and enjoy working at the boundary of infrastructure, security, and intelligent automation.
 <br>
 <hr>
 <br>
 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
+### 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)
+![Slack](https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=fff)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+<!-- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
 <a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
@@ -29,27 +47,11 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828" alt="CSS"></a>
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 <a herf=""><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a> -->
 
 
-<p align="left">
-  <a href="https://google.com">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ramixix&show_icons=true&theme=gotham&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramixix&theme=gotham&hide_border=true" />
-  </a>
-</p>
-<br/>
 
 <img align="right" alt="GIF" width="210px" src="./start.gif" />
-<img src="https://tryhackme-badges.s3.amazonaws.com/xramx.png" alt="TryHackMe">
 
 ### How To Reach Me :
-
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/ramin-halimi)
-<br><br>
-[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/story/ramixix)
-<br><br>
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/whoami/)
-<br><br>
-[<img align="top" alt="Email" src="https://img.shields.io/badge/Email-ramin.halimi@protonmail.com-green?style=for-the-badge" />]()
-<br><br>
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:ramin.halimi@protonmail.com)
